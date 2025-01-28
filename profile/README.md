@@ -1,5 +1,3 @@
-# mulle-concurrent
-
 *mulle-concurrent* provides a few wait-free/lock-free 
 datastructures. The underlying platform thread library is abstracted 
 using *mulle-thread*. The problem of thread-safe memory reclamation is handled
